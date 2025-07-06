@@ -9,7 +9,7 @@ Today, I worked on a Java Swing application (`RectangleManipulation`) to draw an
 ## Result
 Below is the screenshot of the final transformation of the Rectangle.
 
-![JFrame Output](https://imgur.com/a/tU2R4im.gif)
+![JFrame Output](https://imgur.com/ZVzu3uu.gif)
 
 ### Key Code Components
 - **Setup**: Used `JFrame` and `JComponent` to create a window and canvas for drawing.
